@@ -1,4 +1,4 @@
-# WHMCS_OPay V1.0.0 
+﻿# WHMCS_OPay V1.0.0 
 ---
 
 ## 1. 介紹
@@ -15,7 +15,7 @@
 
 
 ## 4. 聯絡我們
-  - 歐付寶技術客服信箱: techsupport@Opay.tw
+  - 歐付寶技術客服信箱: techsupport@opay.tw
 
 
 
